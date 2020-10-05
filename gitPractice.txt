@@ -1,1 +1,2 @@
 So I started with git to get my simulation lessons upfront
+I was able to make a commit after several attempt of logging out a formal user.
